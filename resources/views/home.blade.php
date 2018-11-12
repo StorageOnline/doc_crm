@@ -18,6 +18,12 @@
                 <ul class="navbar-nav mr-2">
                     <router-link to="/calendar">Календарь</router-link>
                 </ul>
+                <ul class="navbar-nav mr-2">
+                    <router-link to="/employees">Сотрудники</router-link>
+                </ul>
+                <ul class="navbar-nav mr-2">
+                    <router-link to="/users">Пользователь</router-link>
+                </ul>
 
                 <!-- Right Side Of Navbar -->
                 <ul class="navbar-nav ml-auto">
